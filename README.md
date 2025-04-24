@@ -43,7 +43,7 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![Uploading 435377329-cc675d18-debe-42a3-8b3c-58fecac61d5f.png…]()
+![435377329-cc675d18-debe-42a3-8b3c-58fecac61d5f](https://github.com/user-attachments/assets/5da7a394-806a-4542-90c9-a29da63b5e48)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
